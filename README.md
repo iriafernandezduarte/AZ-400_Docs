@@ -1,7 +1,7 @@
 # ROADMAP AZ-400
 
-![IMG](img/image_001_AZ400.png "certificado AZ400")
 
+![IMG](img/image_001_AZ400.png "certificado AZ400")
 ## Guía de estudio para el examen AZ-400 Diseño e implementación de soluciones de Microsoft DevOps
 
 ### Finalidad de este documento
@@ -74,5 +74,5 @@ Debes tener experiencia en administración y desarrollo en Azure, con aptitudes 
 - Configuración de Azure Monitor y Log Analytics para la integración con herramientas de DevOps
 - Análisis de métricas de la instrumentación
 
-
 ![img roadmap](img/Azure_Diagrams-07.png "Image of the roadmap")
+
