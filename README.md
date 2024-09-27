@@ -75,4 +75,4 @@ Debes tener experiencia en administración y desarrollo en Azure, con aptitudes 
 - Análisis de métricas de la instrumentación
 
 
-![img roadmap](img\Azure_Diagrams-07.png "Image of the roadmap")
+![img roadmap](img/Azure_Diagrams-07.png "Image of the roadmap")
